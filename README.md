@@ -66,7 +66,3 @@ This project is open-source and available under the **MIT License**.
 
 Feel free to contribute and help make networks more secure!
 ```
-
----
-
-Feel free to adjust any sections or wording as needed. Let me know if you need further modifications!
